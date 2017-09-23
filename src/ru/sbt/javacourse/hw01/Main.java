@@ -7,6 +7,8 @@ public class Main {
 
         System.out.println("Synced?");
 
+        System.out.println("Yes, it is!");
+
     }
 
 }
